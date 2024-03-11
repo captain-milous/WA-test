@@ -15,7 +15,7 @@ na řádku 719 "print 'mkdir: ', directory" změněno na "print ('mkdir: ', dire
 na řádku 187 "xrange" is not defined
 
 ## Security issues
-
+Žádné jsem nenašel.
 
 ## Řešení problému
 Na vyřešení security problémů bych si v reálné situaci zaplatil firmu, která tomu rozumí mnohem více než já. Firma by měla zároveň za celou security zodpovědnost, kterou bych si dobrovolně na triko nevzal.
